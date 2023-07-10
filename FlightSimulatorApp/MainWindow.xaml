@@ -1,0 +1,35 @@
+﻿<Window x:Class="FlightSimulatorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlightSimulatorApp"
+        xmlns:Views="clr-namespace:FlightSimulatorApp.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="1200" WindowState="Normal" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="600"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Views:DashboardV Grid.Row="1" Grid.Column="2" Width="250"></Views:DashboardV>
+        <Views:JoystickAdded Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center"/>
+
+        <Label HorizontalAlignment="Center" Foreground="Red" FontWeight="Bold" FontSize="22" Grid.Column="1" Content="Flight Simulator Project">
+            <Label.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FF2B2BBF" Offset="0.3" />
+                    <GradientStop Color="#FF28C9E2" Offset="0.7" />
+                    <GradientStop Color="#FF4F9F8C" Offset="1" />
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+        <Views:ButtonsV Grid.Column="0" Grid.Row="0"></Views:ButtonsV>
+        <Views:MapV Grid.Column="0" Grid.Row="1" LonLat="{Binding LonLatVM, Mode=OneWay}"></Views:MapV>
+    </Grid>
+</Window>

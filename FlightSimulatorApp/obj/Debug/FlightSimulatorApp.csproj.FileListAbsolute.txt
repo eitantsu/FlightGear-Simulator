@@ -1,0 +1,158 @@
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csprojAssemblyReference.cache
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\App.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.cache
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.lref
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\bin\Debug\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\bin\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\bin\Debug\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.g.resources
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.Properties.Resources.resources
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.baml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.g.cs
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\bin\Debug\DynamicDataDisplay.dll
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\bin\Debug\DynamicDataDisplay.xml
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CopyComplete
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\out\DynamicDataDisplay.dll
+C:\Users\roma_\Desktop\FlightSimulator\FlightSimulatorApp\out\DynamicDataDisplay.xml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csprojAssemblyReference.cache
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\App.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.cache
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.lref
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.baml
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.g.resources
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.Properties.Resources.resources
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CopyComplete
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\out\DynamicDataDisplay.dll
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\out\DynamicDataDisplay.xml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csprojAssemblyReference.cache
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\App.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.cache
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.lref
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.baml
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.g.resources
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.Properties.Resources.resources
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CopyComplete
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\final\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\out\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\roma_\Desktop\New folder (2)\FlightSimulator\FlightSimulatorApp\out\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\out\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\out\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\out\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csprojAssemblyReference.cache
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\App.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.cache
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.lref
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.baml
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.g.resources
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.Properties.Resources.resources
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CopyComplete
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\New folder (3)\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\very last\FlightSimulator\out\FlightSimulatorApp.exe.config
+C:\Users\roma_\Desktop\very last\FlightSimulator\out\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\very last\FlightSimulator\out\FlightSimulatorApp.pdb
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csprojAssemblyReference.cache
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\Joystick.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\MapV.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\SettingsV.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\App.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.cache
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp_MarkupCompile.lref
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\ButtonsV.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\DashboardV.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\MainWindow.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\Views\JoystickAdded.baml
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.g.resources
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.Properties.Resources.resources
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.csproj.CopyComplete
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.exe
+C:\Users\roma_\Desktop\very last\FlightSimulator\FlightSimulatorApp\obj\Debug\FlightSimulatorApp.pdb

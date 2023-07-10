@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="FlightSimulatorApp.Views.DashboardV"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlightSimulatorApp.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="250">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label FontWeight="Bold" Grid.Row="0" Grid.Column="1" Content="indicated-speed-kt" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="0" Grid.Column="1" Content="{Binding Path=SpeedktVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="1" Grid.Column="1" Content="indicated-ground-speed-kt" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="1" Grid.Column="1" Content="{Binding Path=GSpeedktVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="2" Grid.Column="1" Content="indicated-vertical-speed" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="2" Grid.Column="1" Content="{Binding Path=VSpeedVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="3" Grid.Column="1" Content="altimeter/indicated-altitude-ft" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="3" Grid.Column="1" Content="{Binding Path=MeterAltVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="4" Grid.Column="1" Content="gps/indicated-altitude-ft" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="4" Grid.Column="1" Content="{Binding Path=GpsAltVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="5" Grid.Column="1" Content="internal-pitch-deg" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="5" Grid.Column="1" Content="{Binding Path=PitchVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="6" Grid.Column="1" Content="internal-roll-deg" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="6" Grid.Column="1" Content="{Binding Path=RollVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+        <Label FontWeight="Bold" Grid.Row="7" Grid.Column="1" Content="indicated-heading-deg" HorizontalAlignment="Left"></Label>
+        <Label FontWeight="Bold" Grid.Row="7" Grid.Column="1" Content="{Binding Path=HeadingVM, Mode=OneWay}" HorizontalAlignment="Right"></Label>
+    </Grid>
+</UserControl>
+
